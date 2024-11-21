@@ -1,0 +1,101 @@
+Call_ID,Call_Transcript,Expected_Result
+1,Immediate action required to avoid penalties. Confirm your personal information now.,Vishing
+2,You have won a lottery prize! Share your bank details to claim.,Vishing
+3,Your account has been flagged for suspicious activity. Please provide your details to reactivate.,Vishing
+4,This is a final notice from collections. Share your payment details to settle your account.,Non-Vishing
+5,This is a final notice from collections. Share your payment details to settle your account.,Non-Vishing
+6,You have won a lottery prize! Share your bank details to claim.,Non-Vishing
+7,A family member is in urgent need of funds. Please transfer immediately to this account.,Vishing
+8,You have won a lottery prize! Share your bank details to claim.,Non-Vishing
+9,Your account has been flagged for suspicious activity. Please provide your details to reactivate.,Non-Vishing
+10,Your package has been shipped and will arrive soon.,Non-Vishing
+11,Immediate action required to avoid penalties. Confirm your personal information now.,Vishing
+12,Your account has been flagged for suspicious activity. Please provide your details to reactivate.,Vishing
+13,Thank you for your recent purchase. Your receipt will be sent shortly.,Non-Vishing
+14,Reminder: Your meeting is scheduled for tomorrow at 10 AM.,Vishing
+15,This is a courtesy call to follow up on your service appointment.,Vishing
+16,A family member is in urgent need of funds. Please transfer immediately to this account.,Non-Vishing
+17,Your subscription has been renewed successfully. Thank you!,Non-Vishing
+18,This is a courtesy call to follow up on your service appointment.,Non-Vishing
+19,Thank you for your recent purchase. Your receipt will be sent shortly.,Non-Vishing
+20,Your account has been flagged for suspicious activity. Please provide your details to reactivate.,Vishing
+21,This is a courtesy call to follow up on your service appointment.,Vishing
+22,Your account has been flagged for suspicious activity. Please provide your details to reactivate.,Non-Vishing
+23,You have won a lottery prize! Share your bank details to claim.,Vishing
+24,You have won a lottery prize! Share your bank details to claim.,Vishing
+25,Your package has been shipped and will arrive soon.,Vishing
+26,Immediate action required to avoid penalties. Confirm your personal information now.,Non-Vishing
+27,Your account has been flagged for suspicious activity. Please provide your details to reactivate.,Non-Vishing
+28,This is a courtesy call to follow up on your service appointment.,Non-Vishing
+29,Your account has been flagged for suspicious activity. Please provide your details to reactivate.,Non-Vishing
+30,Thank you for your recent purchase. Your receipt will be sent shortly.,Non-Vishing
+31,Your package has been shipped and will arrive soon.,Non-Vishing
+32,Your account has been flagged for suspicious activity. Please provide your details to reactivate.,Non-Vishing
+33,You have won a lottery prize! Share your bank details to claim.,Vishing
+34,Thank you for your recent purchase. Your receipt will be sent shortly.,Non-Vishing
+35,This is a final notice from collections. Share your payment details to settle your account.,Non-Vishing
+36,This is a courtesy call to follow up on your service appointment.,Vishing
+37,Your package has been shipped and will arrive soon.,Vishing
+38,Immediate action required to avoid penalties. Confirm your personal information now.,Non-Vishing
+39,Thank you for your recent purchase. Your receipt will be sent shortly.,Vishing
+40,Your account has been flagged for suspicious activity. Please provide your details to reactivate.,Vishing
+41,A family member is in urgent need of funds. Please transfer immediately to this account.,Vishing
+42,Your subscription has been renewed successfully. Thank you!,Vishing
+43,A family member is in urgent need of funds. Please transfer immediately to this account.,Vishing
+44,A family member is in urgent need of funds. Please transfer immediately to this account.,Vishing
+45,Your account has been flagged for suspicious activity. Please provide your details to reactivate.,Non-Vishing
+46,A family member is in urgent need of funds. Please transfer immediately to this account.,Vishing
+47,Thank you for your recent purchase. Your receipt will be sent shortly.,Vishing
+48,A family member is in urgent need of funds. Please transfer immediately to this account.,Non-Vishing
+49,Your subscription has been renewed successfully. Thank you!,Non-Vishing
+50,Immediate action required to avoid penalties. Confirm your personal information now.,Vishing
+51,Your account has been flagged for suspicious activity. Please provide your details to reactivate.,Non-Vishing
+52,Immediate action required to avoid penalties. Confirm your personal information now.,Vishing
+53,Your subscription has been renewed successfully. Thank you!,Non-Vishing
+54,Reminder: Your meeting is scheduled for tomorrow at 10 AM.,Non-Vishing
+55,Your subscription has been renewed successfully. Thank you!,Vishing
+56,Your account has been flagged for suspicious activity. Please provide your details to reactivate.,Vishing
+57,This is a courtesy call to follow up on your service appointment.,Vishing
+58,Thank you for your recent purchase. Your receipt will be sent shortly.,Vishing
+59,You have won a lottery prize! Share your bank details to claim.,Vishing
+60,A family member is in urgent need of funds. Please transfer immediately to this account.,Non-Vishing
+61,This is a final notice from collections. Share your payment details to settle your account.,Non-Vishing
+62,Thank you for your recent purchase. Your receipt will be sent shortly.,Non-Vishing
+63,This is a final notice from collections. Share your payment details to settle your account.,Vishing
+64,Your account has been flagged for suspicious activity. Please provide your details to reactivate.,Vishing
+65,Your account has been flagged for suspicious activity. Please provide your details to reactivate.,Vishing
+66,Your package has been shipped and will arrive soon.,Vishing
+67,Your package has been shipped and will arrive soon.,Non-Vishing
+68,A family member is in urgent need of funds. Please transfer immediately to this account.,Vishing
+69,A family member is in urgent need of funds. Please transfer immediately to this account.,Non-Vishing
+70,A family member is in urgent need of funds. Please transfer immediately to this account.,Vishing
+71,This is a final notice from collections. Share your payment details to settle your account.,Non-Vishing
+72,This is a courtesy call to follow up on your service appointment.,Vishing
+73,You have won a lottery prize! Share your bank details to claim.,Non-Vishing
+74,This is a courtesy call to follow up on your service appointment.,Non-Vishing
+75,Immediate action required to avoid penalties. Confirm your personal information now.,Vishing
+76,You have won a lottery prize! Share your bank details to claim.,Vishing
+77,Reminder: Your meeting is scheduled for tomorrow at 10 AM.,Vishing
+78,Your subscription has been renewed successfully. Thank you!,Vishing
+79,Immediate action required to avoid penalties. Confirm your personal information now.,Non-Vishing
+80,You have won a lottery prize! Share your bank details to claim.,Non-Vishing
+81,You have won a lottery prize! Share your bank details to claim.,Vishing
+82,Your account has been flagged for suspicious activity. Please provide your details to reactivate.,Vishing
+83,Your package has been shipped and will arrive soon.,Vishing
+84,A family member is in urgent need of funds. Please transfer immediately to this account.,Vishing
+85,Immediate action required to avoid penalties. Confirm your personal information now.,Vishing
+86,Immediate action required to avoid penalties. Confirm your personal information now.,Non-Vishing
+87,Immediate action required to avoid penalties. Confirm your personal information now.,Vishing
+88,Your package has been shipped and will arrive soon.,Vishing
+89,Your package has been shipped and will arrive soon.,Non-Vishing
+90,You have won a lottery prize! Share your bank details to claim.,Vishing
+91,This is a final notice from collections. Share your payment details to settle your account.,Vishing
+92,Immediate action required to avoid penalties. Confirm your personal information now.,Vishing
+93,Your account has been flagged for suspicious activity. Please provide your details to reactivate.,Vishing
+94,Immediate action required to avoid penalties. Confirm your personal information now.,Non-Vishing
+95,Your subscription has been renewed successfully. Thank you!,Non-Vishing
+96,Your subscription has been renewed successfully. Thank you!,Non-Vishing
+97,Your subscription has been renewed successfully. Thank you!,Vishing
+98,Your subscription has been renewed successfully. Thank you!,Non-Vishing
+99,Immediate action required to avoid penalties. Confirm your personal information now.,Vishing
+100,Your subscription has been renewed successfully. Thank you!,Non-Vishing
